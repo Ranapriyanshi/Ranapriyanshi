@@ -1,9 +1,11 @@
-[![MasterHead](https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif)]()
+[![MasterHead](https://i.pinimg.com/originals/4f/e3/31/4fe33144532cacf547c3a3d7c225a210.gif)]()
 <h1 align="center">Hi 👋, I'm Priyanshi Rana</h1>
 <h3 align="center">I am passionate about coding and innovation, eager to collaborate and tackle challenges. As an aspiring software developer fluent in C++, Python, and JavaScript, with experience in frameworks like ReactJS, I aim to bring creative solutions to the table. My drive stems from a thirst for learning and working effectively within a team. With my technical proficiency and creative approach, I am excited to contribute to meaningful projects that make a difference.</h3>
 <img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" alt="" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranapriyanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ranapriyanshi" /> </p>
+
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, Vue**
 
