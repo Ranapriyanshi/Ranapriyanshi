@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **priyanshirana78@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am very funny**
 <br/>
 
 <h3 align="left">Connect with me:</h3>
