@@ -5,9 +5,9 @@
 <img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" alt="" align="right" width="370">
 <br/>
 
-- 🌱 I’m currently learning **Animation**
+- 🌱 I’m currently learning **NestJS**
 
-- 💬 Ask me about **React, Vue**
+- 💬 Ask me about **React, Vue, Javascript**
 
 - 📫 How to reach me **priyanshirana78@gmail.com**
 
