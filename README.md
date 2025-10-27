@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Priyanshi Rana</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranapriyanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ranapriyanshi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranapriyanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ranapriyanshi" /> </p> -->
 <h3 align="center">Full-stack developer with 1.5+ years of experience building scalable web and backend systems using React, Node.js, TypeScript, and PostgreSQL. Delivered production-grade features that improved efficiency by 30%, serving 50+ clients. Proficient in writing unit/integration tests (Jest) with over 90% code coverage, applying SOLID/KISS principles, and collaborating cross-functionally with QA and product teams.</h3>
 <br/>
 <img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" alt="" align="right" width="370">
