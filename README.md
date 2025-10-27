@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" alt="" align="right" width="370">
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranapriyanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ranapriyanshi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranapriyanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ranapriyanshi" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranapriyanshi" alt="ranapriyanshi" /></a> </p>
 
@@ -37,8 +37,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranapriyanshi&" alt="ranapriyanshi" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranapriyanshi&show_icons=true&locale=en&layout=compact" alt="ranapriyanshi" width="250" style="margin-top:15"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranapriyanshi&show_icons=true&locale=en" alt="ranapriyanshi" width="450" /></p>
-
-<div width="1000" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranapriyanshi&" alt="ranapriyanshi" /></div>
